@@ -1,6 +1,6 @@
 declare -A hashes
 declare -A branches
-hashes[FStar]=825e7cda53e0b06345a965b9d316d65040a33cac
+hashes[FStar]=0bc8c41207a36fb78240eea47bad1f72031f52cf
 branches[FStar]=master
 hashes[hacl-star]=c08c2dd173539ee66376e5365d1ecba7a2ceaafa
 branches[hacl-star]=protz_election_guard
